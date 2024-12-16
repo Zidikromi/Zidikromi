@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/v2/D5603AQEpWYLZILdMlQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720183109728?e=1740009600&v=beta&t=ZLhmV9uVLRFLNR30QUeL9vUUrLxrBKzLmbnMr5iHvYE)"  />
 
 ###
 
@@ -26,7 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
